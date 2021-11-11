@@ -1,0 +1,2 @@
+﻿Name,Type,Description,tts_en-us,audio_en-us,tts_es-es,audio_es-es
+Initial_Greeting,user,The initial greeting for normal business hours,Thank you for calling.,prompt_user_Initial_Greeting_en-us.wav,Gracias por llamar.,prompt_user_Initial_Greeting_es-es.wav
